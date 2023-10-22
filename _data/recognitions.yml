@@ -1,16 +1,20 @@
 # Recognitions
 - award: EIA Award Nomination
   organization: Fidelity Investments
+  year: 2023
   summary: Recognized by a senior colleague for effective investigation and documentation of key technology migration
 
 - award: MasterMind Award
   organization: Mindtree
+  year: 2021
   summary: Recognized by the team lead for effective completion of quarterly key deliverables
-
-- award: MasterMind Award
-  organization: Mindtree
-  summary: Recognized by a senior colleague for quickly picking up the project technicalities and significant contributions in no-time
 
 - award: Hats Off Award
   organization: Mindtree
+  year: 2021
   summary: Recognized by the team lead/architect for delivering a complex module with speed and accuracy
+
+- award: MasterMind Award
+  organization: Mindtree
+  year: 2019
+  summary: Recognized by a senior colleague for quickly picking up the project technicalities and significant contributions in no-time
